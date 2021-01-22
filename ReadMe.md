@@ -1,5 +1,4 @@
-# *UNDER CONSTRUCTION*
-# 3D-Graphics-Library
+# 3D-Graphics-Library - *UNDER CONSTRUCTION*
 
 ## Part 1 - "A SIMPLE TWO-DIMENSIONAL DRAWING SYSTEM"
 
