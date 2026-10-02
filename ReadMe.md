@@ -1,3 +1,5 @@
+> **Archived — October 2, 2026.** This 3D graphics library project is no longer actively maintained. It is preserved for historical reference.
+
 # 3D-Graphics-Library (*UNDER CONSTRUCTION*)
 
 ## Part 1 - "A SIMPLE TWO-DIMENSIONAL DRAWING SYSTEM"
